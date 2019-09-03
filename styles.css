@@ -2,11 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
 
-body {
-  bgcolor="lightblue"
-}
-
 h1 {
+  background-color: lightblue;
   color: red;
   text-align: center;
   font-family: 'Manjari', sans-serif;
